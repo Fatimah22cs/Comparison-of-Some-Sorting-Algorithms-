@@ -9,3 +9,10 @@ Abstract. — Sorting is an important data structure in many applications in the
  sorted elements, insertion sort has a faster running time than merge and heap algorithms. When it comes to dealing with a large number of 
  elements, it is better to use the merge sort. For the number of comparisons for each algorithm, the insertion sort has the highest number 
  of comparisons.
+
+by
+Khaznah Alhajri 
+Wala Alsinan
+Sahar Almuhaishi 
+Fatimah Al-hmood 
+Narjis Al-Jumaia
